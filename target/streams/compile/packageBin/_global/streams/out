@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\scala\target\scala-2.13\scala_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\scala\target\scala-2.13\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\scala\target\scala-2.13\classes\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Repository[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\scala\target\scala-2.13\classes\Repository[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Repository\GetStarted$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\scala\target\scala-2.13\classes\Repository\GetStarted$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Repository\GetStarted$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\scala\target\scala-2.13\classes\Repository\GetStarted$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Repository\GetStarted$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\scala\target\scala-2.13\classes\Repository\GetStarted$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Repository\GetStarted$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\scala\target\scala-2.13\classes\Repository\GetStarted$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Repository\GetStarted$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\scala\target\scala-2.13\classes\Repository\GetStarted$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Repository\GetStarted.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\scala\target\scala-2.13\classes\Repository\GetStarted.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
